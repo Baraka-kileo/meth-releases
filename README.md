@@ -3,7 +3,7 @@
 **Music Experience That Hooks.** One Android app for **YouTube Music and Spotify**: one Home, one Library, one Search, one queue.
 
 ## Download
-Go to **[Releases](../../releases/latest)** and download:
+Go to **[Releases](https://github.com/Baraka-kileo/meth-releases/releases)** and download:
 - **METH-x.x.x.apk**: the app (Android, arm64)
 - **spotify.kxt**: the Spotify extension (only if you use Spotify)
 
